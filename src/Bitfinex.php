@@ -1,6 +1,6 @@
 <?php
 
-namespace Fq;
+namespace Bitfinex;
 
 use GuzzleHttp\Client;
 
