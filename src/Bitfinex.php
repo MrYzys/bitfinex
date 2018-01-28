@@ -1,7 +1,5 @@
 <?php
 
-namespace Bitfinex;
-
 use GuzzleHttp\Client;
 
 class Bitfinex
